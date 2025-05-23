@@ -10,8 +10,8 @@ Here’s a suggested portfolio based on your preferences:
   - Price: $80,000
   - Quantity: 0.00625
   - About: Bitcoin is the first and most widely recognized cryptocurrency...
- 
-2. ETH (Ethereum)
+  
+2. ETH (Ethereum) 
   - Invest: $300
   - Price: $1,600
   - Quantity: 0.1875

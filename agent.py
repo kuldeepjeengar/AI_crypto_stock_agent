@@ -55,7 +55,7 @@ json_string = json.dumps(data, indent=4)
 # Wrap in Markdown code block
 markdown = f"```json\n{json_string}\n```"
 
-user_request = {
+user_request = { 
     "budget": "$1000",
     "risk_level": "medium",
     "coin_preferences": "prefer BTC, exclude meme coins",
